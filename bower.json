@@ -1,0 +1,12 @@
+{
+  "name": "parse-rate-limiter",
+  "version": "0.0.1",
+  "homepage": "https://github.com/stangah/parse-rate-limiter",
+  "authors": [
+    "stangah <pstanger@gmail.com>"
+  ],
+  "description": "Queue up calls to Parse API to avoid triggering your account's API rate limit",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true
+}
